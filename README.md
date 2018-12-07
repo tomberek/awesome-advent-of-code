@@ -82,6 +82,7 @@ in your favourite language.*
 *Solutions to AoC in AWK.*
 
 * [phikal/aoc2018](https://github.com/phikal/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/phikal/aoc2018.svg)
+* [tomberek/advent](https://github.com/tomberek/advent) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tomberek/advent.svg)
 
 #### C
 
